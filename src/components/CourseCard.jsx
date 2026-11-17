@@ -1,3 +1,4 @@
+
 function CourseCard({ code, title, units, instructor }) {
   return (
     <div className="card course-card">

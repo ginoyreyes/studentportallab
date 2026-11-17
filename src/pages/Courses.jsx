@@ -1,5 +1,6 @@
 import CourseCard from '../components/CourseCard.jsx'
 
+
 const courses = [
   { id: 1, code: 'DCIT 26', title: 'Application Development and Emerging Technologies', units: 3, instructor: 'Marlo N. Ortiz' },
   { id: 2, code: 'ITEC 85B', title: 'Information Assurance and Security 1', units: 3, instructor: 'Adrian Sanchez' },

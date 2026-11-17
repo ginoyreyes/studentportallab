@@ -1,10 +1,11 @@
 import StudentCard from '../components/StudentCard.jsx'
 
+
 const students = [
-  { id: 1, name: 'Juan Dela Cruz', studentNumber: '202310001', course: 'BS Information Technology', yearLevel: '3rd Year' },
-  { id: 2, name: 'Maria Santos', studentNumber: '202310002', course: 'BS Computer Science', yearLevel: '3rd Year' },
-  { id: 3, name: 'Jose Rizal', studentNumber: '202310003', course: 'BS Information Technology', yearLevel: '2nd Year' },
-  { id: 4, name: 'Andrea Reyes', studentNumber: '202310004', course: 'BS Computer Science', yearLevel: '4th Year' },
+  { id: 1, name: 'Gino Reyes', studentNumber: '202310001', course: 'BS Information Technology', yearLevel: '3rd Year' },
+  { id: 2, name: 'Rey Angelo Pingol', studentNumber: '202310002', course: 'BS Computer Science', yearLevel: '3rd Year' },
+  { id: 3, name: 'Antonio Tepace', studentNumber: '202310003', course: 'BS Information Technology', yearLevel: '3rdd Year' },
+  { id: 4, name: 'Ralph Lising', studentNumber: '202310004', course: 'BS Computer Science', yearLevel: '3rd Year' },
 ]
 
 function Students() {

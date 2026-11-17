@@ -4,6 +4,7 @@ import Home from './pages/Home.jsx'
 import Students from './pages/Students.jsx'
 import Courses from './pages/Courses.jsx'
 import About from './pages/About.jsx'
+import './App.css'
 
 function App() {
   return (

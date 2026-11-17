@@ -1,3 +1,4 @@
+
 function StudentCard({ name, studentNumber, course, yearLevel }) {
   return (
     <div className="card student-card">
